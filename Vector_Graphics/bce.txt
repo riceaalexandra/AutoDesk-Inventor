@@ -1,0 +1,13 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<title>Test 3D PDF</title>
+</head>
+<body>
+<h1 style="background-color:#71E2FF;color:navy">Proba 3D PDF</h1>
+ <embed height="800px" width="1200px" src="Ricea f. Florentina alexandra-T7 (Master).pdf"></embed>
+<h2 style="background-color:#71E2FF;color:navy">Final 3D PDF</h2>
+</body>
+</html>

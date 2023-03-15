@@ -1,0 +1,29 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<title>SVG</title>
+</head>
+<body>
+<p align="left">
+<span>Proba svg 1000px</span><br/>
+<image src="Ricea f. Florentina alexandra-T9.svg" width="1000px"></image><br/>
+<span>Proba svg 200px</span><br/><br/>
+<image src="Ricea f. Florentina alexandra-T9.svg" width="200px"></image>
+</p>
+<p>
+<!-- Cod SVG inserat direct pentru text pe curba Bezier -->
+<svg>
+<defs>
+<path id="Director" d="M30 40 C 50 20, 70 10, 120 40 S 150 0, 200 40"
+style="stroke: gray; fill: none;"/>
+</defs>
+<use xlink:href="#Director"/>
+<text style="font-size:16pt">
+<textPath xlink:href="#Director">Text pe o curba Bezier</textPath>
+</text>
+</svg>
+</p>
+</body>
+</html>

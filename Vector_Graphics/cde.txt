@@ -1,0 +1,13 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<title>Test DWF</title>
+</head>
+<body>
+<h1 style="background-color:#9BFF9B;color:teal">Proba DWF</h1>
+<embed height="800px" width="1200px" src="dwfx.dwfx"></embed>
+<h2 style="background-color:#9BFF9B;color:teal">Final DWF</h2>
+</body>
+</html>
