@@ -3,7 +3,7 @@ This repository contains a collection of projects I created using Autodesk Inven
 
     Parametric Reference;
     Motherboard;
-    Muted Rim;
+    Wheel Rim;
     Computer Mouse;
     HDD Bracket;
     PC Support Assembly;
